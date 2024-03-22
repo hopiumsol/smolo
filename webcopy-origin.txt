@@ -1,0 +1,40 @@
+Uri: https://fonts.cdnfonts.com/css/common-pixel
+File Name: C:\Users\박진호\Desktop\사이트복제\smolo.vip\css\common-pixel
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/css/public-pixel
+File Name: C:\Users\박진호\Desktop\사이트복제\smolo.vip\css\public-pixel
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/s/71909/PublicPixel-eZPz6.woff
+File Name: C:\Users\박진호\Desktop\사이트복제\smolo.vip\s\71909\PublicPixel-eZPz6.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/7553/COMMP___.woff
+File Name: C:\Users\박진호\Desktop\사이트복제\smolo.vip\s\7553\COMMP___.woff
+Content Type: font/woff
+
+Uri: https://smolo.vip/
+File Name: C:\Users\박진호\Desktop\사이트복제\smolo.vip\index.htm
+Content Type: text/html
+
+Uri: https://smolo.vip/favicon.png
+File Name: C:\Users\박진호\Desktop\사이트복제\smolo.vip\favicon.png
+Content Type: image/png
+
+Uri: https://smolo.vip/smololist.gif
+File Name: C:\Users\박진호\Desktop\사이트복제\smolo.vip\smololist.gif
+Content Type: image/gif
+
+Uri: https://smolo.vip/smoloup.gif
+File Name: C:\Users\박진호\Desktop\사이트복제\smolo.vip\smoloup.gif
+Content Type: image/gif
+
+Uri: https://smolo.vip/telegram.svg
+File Name: C:\Users\박진호\Desktop\사이트복제\smolo.vip\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://smolo.vip/x.svg
+File Name: C:\Users\박진호\Desktop\사이트복제\smolo.vip\x.svg
+Content Type: image/svg+xml
+
